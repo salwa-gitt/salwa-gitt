@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Salwa Jabeen 👋
 
-<!--
-**salwa-gitt/salwa-gitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering undergraduate at Virtual University of Pakistan.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Building projects with C++
+* Learning Object-Oriented Programming (OOP)
+* Strengthening problem-solving skills
+* Expanding my computer science foundations through hands-on practice
+
+## Tech Stack
+
+**Languages:** Python, C++, C
+
+**Tools:** Git, GitHub, VS Code
+
+## About Me
+
+I enjoy learning software engineering by building projects and exploring how things work under the hood. Currently, I'm focused on improving my C++ skills, learning object-oriented programming, and developing a stronger foundation in computer science.
+
+## Connect
+
+* LinkedIn: https://www.linkedin.com/in/salwajabeen
+* Email: salwajswe@gmail.com
