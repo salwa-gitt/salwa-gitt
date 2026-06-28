@@ -1,4 +1,4 @@
-# Hi, I'm Salwa Jabeen 👋
+# Hi, I'm Salwa Jabeen 
 
 Software Engineering undergraduate at Virtual University of Pakistan.
 
