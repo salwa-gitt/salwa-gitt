@@ -1,4 +1,6 @@
-# Hi, I'm Salwa Jabeen 
+<img width="500" height="281" alt="Image" src="https://github.com/user-attachments/assets/44b81618-fad0-4ca4-8a60-6cb623f7f5f2" />
+
+# Hay, I'm Salwa Jabeen 
 
 ### Software Engineering undergraduate at Virtual University of Pakistan.
 
@@ -37,3 +39,5 @@ I enjoy learning software engineering by building projects and exploring how thi
 
 *  **LinkedIn:** https://www.linkedin.com/in/salwajabeen
 *  **Email:** salwajswe@gmail.com
+
+  <img width="500" height="340" alt="Image" src="https://github.com/user-attachments/assets/c076090f-95aa-473f-bc7b-80c754fbfebf" />
